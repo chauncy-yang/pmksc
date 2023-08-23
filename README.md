@@ -1,5 +1,8 @@
 # pmksc
-基于RuoYi-Plus的框架，构建的自己医学知识相关系统
+基于RuoYi-Plus的框架，构建的自己医学知识共享中心
+PMKSC （Personal Medical Knowledge Sharing Center ）
+
+
 
 # todo 资料模块
 1.药物资料
