@@ -1,4 +1,4 @@
-# chauncy-doctor
+# pmksc
 基于RuoYi-Plus的框架，构建的自己医学知识相关系统
 
 # todo 资料模块
