@@ -1,5 +1,5 @@
 # pmksc
-基于RuoYi-Plus的框架，构建的个人医学知识共享中心
+基于RuoYi的框架，构建的个人医学知识共享中心  
 PMKSC （Personal Medical Knowledge Sharing Center ）
 
 
